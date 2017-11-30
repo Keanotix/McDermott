@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Timezone
 {
-    class Parser : IParser
+    public class Parser : IParser
     {
+        public void DisplayTime(string time, string timezone)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

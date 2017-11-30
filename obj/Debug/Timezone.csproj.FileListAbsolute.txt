@@ -1,2 +1,7 @@
 C:\Users\Gavin\Desktop\Visual Studio\Timezone-master\Timezone\obj\Debug\Timezone.csprojResolveAssemblyReference.cache
 C:\Users\Gavin\Desktop\Visual Studio\Timezone-master\Timezone\obj\Debug\Timezone.csproj.CoreCompileInputs.cache
+C:\Users\Gavin\Desktop\Visual Studio\Timezone-master\Timezone\bin\Debug\Timezone.exe.config
+C:\Users\Gavin\Desktop\Visual Studio\Timezone-master\Timezone\bin\Debug\Timezone.exe
+C:\Users\Gavin\Desktop\Visual Studio\Timezone-master\Timezone\bin\Debug\Timezone.pdb
+C:\Users\Gavin\Desktop\Visual Studio\Timezone-master\Timezone\obj\Debug\Timezone.exe
+C:\Users\Gavin\Desktop\Visual Studio\Timezone-master\Timezone\obj\Debug\Timezone.pdb
