@@ -1,0 +1,2 @@
+C:\Users\Gavin\Desktop\Visual Studio\Timezone-master\Timezone\obj\Debug\Timezone.csprojResolveAssemblyReference.cache
+C:\Users\Gavin\Desktop\Visual Studio\Timezone-master\Timezone\obj\Debug\Timezone.csproj.CoreCompileInputs.cache
