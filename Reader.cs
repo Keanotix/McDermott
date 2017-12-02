@@ -12,8 +12,9 @@ namespace Timezone
         public List<Tuple<string, string>> Read()
         {
             List<Tuple<string, string>> lReturn = new List<Tuple<string, string>>();
-
-            string[] fileParts = File.ReadAllText("Timezone.txt").Split(new string[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
+            
+            // changed the separator to look for simple \n as the current Environment.Newline looks for \r\n 
+            string[] fileParts = File.ReadAllText("Timezone.txt").Split(separator: new string[] {"\n"}, options: StringSplitOptions.RemoveEmptyEntries);
 
             foreach (string part in fileParts)
             {

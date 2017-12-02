@@ -10,7 +10,6 @@ namespace Timezone
     {
         public void DisplayTime(string time, string timezone)
         {
-            throw new NotImplementedException();
         }
     }
 }
