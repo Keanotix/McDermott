@@ -5,3 +5,11 @@ C:\Users\Gavin\Desktop\Visual Studio\Timezone-master\Timezone\bin\Debug\Timezone
 C:\Users\Gavin\Desktop\Visual Studio\Timezone-master\Timezone\bin\Debug\Timezone.pdb
 C:\Users\Gavin\Desktop\Visual Studio\Timezone-master\Timezone\obj\Debug\Timezone.exe
 C:\Users\Gavin\Desktop\Visual Studio\Timezone-master\Timezone\obj\Debug\Timezone.pdb
+C:\Users\Gavin\Desktop\Visual Studio\Timezone-master\Timezone\bin\Debug\Geocoder.dll
+C:\Users\Gavin\Desktop\Visual Studio\Timezone-master\Timezone\bin\Debug\Google.Apis.Core.dll
+C:\Users\Gavin\Desktop\Visual Studio\Timezone-master\Timezone\bin\Debug\Google.Apis.dll
+C:\Users\Gavin\Desktop\Visual Studio\Timezone-master\Timezone\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Gavin\Desktop\Visual Studio\Timezone-master\Timezone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gavin\Desktop\Visual Studio\Timezone-master\Timezone\bin\Debug\Google.Apis.xml
+C:\Users\Gavin\Desktop\Visual Studio\Timezone-master\Timezone\bin\Debug\Google.Apis.Core.xml
+C:\Users\Gavin\Desktop\Visual Studio\Timezone-master\Timezone\bin\Debug\Newtonsoft.Json.xml
